@@ -1,0 +1,65 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.ranking {
+white-space: pre-wrap; /* Preserve line breaks */
+}
+
+#name{
+  margin-top: 5vw;
+  font-size: 35px;
+}
+
+#kcss_link:hover{
+  text-decoration: underline;
+}
+#kcss_link{
+  color: #0048ff;
+  text-decoration: none;
+}
+#description{
+  font-weight: unset;
+  font-size: 18px;
+  margin-bottom: 3vw;
+  line-height: 1.5;
+}
+
+h3{
+  font-size: 20px;
+}
+
+h4{
+  font-size: 18px;
+}
+
+img{
+  width: 100%;
+  height: auto;
+}
+
+body {
+    max-width: 600px;
+    margin: auto;
+}
+#intro-container{
+  margin-bottom: 3vw;
+}
+#methology-container{
+  margin-bottom: 3vw;
+}
+
+p{
+  line-height: 1.5;
+  font-size: 18px;
+}
+
+#five_years, #one_year, #top100, #changes, #conclusion, #takeaways{
+  margin-top: 3vw;
+}
+#me{
+  font-weight: unset;
+  margin-top: -1vw;
+}
+
